@@ -46,7 +46,7 @@ Check for:
 ### Basic Fixup
 * [x] If project has Greek charset enabled, regex search `\p{Greek}` to look for Greek characters where they shouldn't be.
 * [x] Use `Tools → Basic Fixup`.
-* [ ] Remove any remaining `[Blank Page]` lines
+* [x] Remove any remaining `[Blank Page]` lines
 
 ### Errata
 * [ ] If original book had errata, apply it and note in TN
