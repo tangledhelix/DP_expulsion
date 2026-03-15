@@ -14,7 +14,34 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Things to revisit ###
 
-* [ ] Example item
+* [ ] First "chapter" (03.png) has no heading. Use `title="Preface"` for EPUB ToC?
+* [ ] This book has footnotes that break across pages
+* [ ] (txt) 06.png starts sec. I, center
+* [ ] (txt) 14.png starts sec. II, center
+* [ ] (txt) 17.png starts sec. III, center
+* [ ] (txt) 21.png starts sec. IV, center
+* [ ] (txt) 24.png starts sec. V, center
+* [ ] (txt) 30.png starts sec. VI, center
+* [ ] (txt) 37.png starts sec. VII, center
+* [ ] (txt) 44.png starts sec. VIII, center
+* [ ] (txt) 53.png starts sec. IX, center
+* [ ] (txt) 67.png starts sec. X, center
+* [ ] (txt) 69.png starts sec. XI, center
+* [ ] (txt) 73.png starts sec. XII, center
+* [ ] (html) 03.png opening paragraph is noindent
+* [ ] (html) 05.png opening paragraph is noindent, starts with smallcaps
+* [ ] (html) 06.png starts sec. I, use h3
+* [ ] (html) 14.png starts sec. II, use h3
+* [ ] (html) 17.png starts sec. III, use h3
+* [ ] (html) 21.png starts sec. IV, use h3
+* [ ] (html) 24.png starts sec. V, use h3
+* [ ] (html) 30.png starts sec. VI, use h3
+* [ ] (html) 37.png starts sec. VII, use h3
+* [ ] (html) 44.png starts sec. VIII, use h3
+* [ ] (html) 53.png starts sec. IX, use h3
+* [ ] (html) 67.png starts sec. X, use h3
+* [ ] (html) 69.png starts sec. XI, use h3
+* [ ] (html) 73.png starts sec. XII, use h3
 
 ### Project manager notes ###
 
