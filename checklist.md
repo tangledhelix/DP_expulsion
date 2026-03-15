@@ -44,8 +44,8 @@ Check for:
 * Anything else that sticks out.
 
 ### Basic Fixup
-* [ ] If project has Greek charset enabled, regex search `\p{Greek}` to look for Greek characters where they shouldn't be.
-* [ ] Use `Tools → Basic Fixup`.
+* [x] If project has Greek charset enabled, regex search `\p{Greek}` to look for Greek characters where they shouldn't be.
+* [x] Use `Tools → Basic Fixup`.
 * [ ] Remove any remaining `[Blank Page]` lines
 
 ### Errata

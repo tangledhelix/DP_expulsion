@@ -49,6 +49,8 @@ Images from [TIA](https://archive.org/details/expulsionofjewsf00abrarich).
 
 ### Forum notes ###
 
+No posts.
+
 ### General notes ###
 
 ### Illustrations ###
@@ -56,6 +58,8 @@ Images from [TIA](https://archive.org/details/expulsionofjewsf00abrarich).
 ### Proofer's notes ###
 
 ### Joined hyphenated words ###
+
+Basic Fixup flagged `Wirthschafts- und` which occurs in a footnote on 32.png. Looking into this, it appears to be similar to English where we might say `the pre- and postscript`, that is, two words sharing a common ending. Leaving as printed with the space between.
 
 ### Spellcheck ###
 
