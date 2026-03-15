@@ -16,6 +16,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 * [ ] First "chapter" (03.png) has no heading. Use `title="Preface"` for EPUB ToC?
 * [ ] This book has footnotes that break across pages
+* [ ] 33.png: footnote 1 has poetry, ending with a right-align attrib.
 * [ ] (txt) 06.png starts sec. I, center
 * [ ] (txt) 14.png starts sec. II, center
 * [ ] (txt) 17.png starts sec. III, center
