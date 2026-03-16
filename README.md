@@ -66,6 +66,14 @@ Basic Fixup flagged `Wirthschafts- und` which occurs in a footnote on 32.png. Lo
 
 ### Transcriber's notes ###
 
+Obvious punctuation misprints were silently corrected.
+
+p. 36 n. 4: changed “ae” to “æ” (Muratori, Antiquitates Italicae Medii Aevi, I. 889.)
+
+p. 47: changed “no” to “not” (where there did not exist a chest)
+
+p. 55 n. 1: changed “der” to “des” (Geschichte Papst Innocenz des Dritten)
+
 ### HTML file review ###
 The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device. 
 
