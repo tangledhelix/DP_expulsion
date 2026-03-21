@@ -2,7 +2,7 @@
 
 
 
-/*
+/F
 Arnold Prize Essay, 1894.
 
 THE EXPULSION OF THE
@@ -23,16 +23,16 @@ London
 SIMPKIN, MARSHALL, HAMILTON, KENT & CO.
 
 M DCCC XCV
-*/
+F/
 
 
 
 
-/*
+/F
 LONDON:
 PRINTED BY WERTHEIMER, LEA & CO.
 CIRCUS PLACE, LONDON WALL.
-*/
+F/
 
 
 
@@ -1231,12 +1231,14 @@ des Römisch-Canonischen Rechts</i>.]
 
 [Footnote 87:
 
-/*
+/P
 E pero lo minor giron suggella,
 Del segno suo e Sodoma e Caorsa.
+P/
 
+/R
 <i>Inferno</i>, XI. 49, 50.
-*/
+R/
 ]
 
 There was every reason why the hatred of usury should
