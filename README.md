@@ -15,8 +15,20 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 ### Things to revisit ###
 
 * [ ] First "chapter" (03.png) has no heading. Use `title="Preface"` for EPUB ToC?
-* [ ] This book has footnotes that break across pages
+* [x] This book has footnotes that break across pages
+* [ ] Use en dash for roman numeral ranges like `xxxiv.-xlviii.`?
+* [ ] Abbreviations:
+  * [ ] `CO.` (does abbr.json handle uppercase CO?)
+  * [ ] `Cp.`
+  * [ ] `Eng.`
+  * [ ] `M DCCC XCV` (p. 1)
+  * [ ] `MSS.`
+  * [ ] `R.S.`
+  * [ ] `Rom.`
+  * [ ] `Stat.`
+  * [ ] `u.s.w.`
 * [ ] 33.png: footnote 1 has poetry, ending with a right-align attrib.
+* [ ] 77.png: `Bradiers and hosiers`: unable to find definition for `Bradiers`. It could be a typo for `Braziers`.
 * [ ] (txt) 06.png starts sec. I, center
 * [ ] (txt) 14.png starts sec. II, center
 * [ ] (txt) 17.png starts sec. III, center
@@ -63,6 +75,36 @@ No posts.
 Basic Fixup flagged `Wirthschafts- und` which occurs in a footnote on 32.png. Looking into this, it appears to be similar to English where we might say `the pre- and postscript`, that is, two words sharing a common ending. Leaving as printed with the space between.
 
 ### Spellcheck ###
+
+- `advowson` (Usually means: Right to appoint a parish priest)<sup>[1][sp1]</sup>
+- `assizes` (Usually means: Periodic sessions of criminal courts)<sup>[2][sp2]</sup>
+- `besant` alt. form of `bezant`, A coin made of gold or silver, minted at Byzantium and used in currency throughout mediaeval Europe.<sup>[3][sp3],[4][sp4],[5][sp5]</sup>
+- `couchant` (Usually means: Lying down with head raised)<sup>[6][sp6]</sup>
+- `demesne` (Usually means: Land retained by a lord)<sup>[7][sp7]</sup>
+- `distrain` (Usually means: Seize property to compel payment)<sup>[8][sp8]</sup>
+- `enfeoffed` (Usually means: Granted a feudal estate in fee)<sup>[9][sp9]</sup>
+- `enfeoffment` (see previous entry)
+- `escheated` (Usually means: Forfeited to the state)<sup>[10][sp10]</sup>
+- `escheators` (see previous entry)
+- `levant` (Usually means: To rise, like the sun)<sup>[11][sp11]</sup>
+- `rapine` (Usually means: Violent seizure and plunder)<sup>[12][sp12]</sup>
+- `seignorial` (Usually means: Relating to a feudal lord)<sup>[13][sp13]</sup>
+- `suffragans` (Usually means: Subordinate bishops under a metropolitan)<sup>[14][sp14]</sup>
+
+[sp1]: https://www.onelook.com/?w=advowson
+[sp2]: https://www.onelook.com/?w=assizes
+[sp3]: https://en.wiktionary.org/wiki/bezant#English
+[sp4]: https://www.webster-dictionary.org/definition/Bezant 
+[sp5]: https://freedictionary.org/?Query=Bezant
+[sp6]: https://www.onelook.com/?w=couchant
+[sp7]: https://www.onelook.com/?w=demesne
+[sp8]: https://www.onelook.com/?w=distrain
+[sp9]: https://www.onelook.com/?w=enfeoffed
+[sp10]: https://www.onelook.com/?w=escheated
+[sp11]: https://www.onelook.com/?w=levant
+[sp12]: https://www.onelook.com/?w=rapine
+[sp13]: https://www.onelook.com/?w=seignorial
+[sp14]: https://www.onelook.com/?w=suffragans
 
 ### Transcriber's notes ###
 
