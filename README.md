@@ -18,6 +18,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] This book has footnotes that break across pages
 * [ ] Use en dash for roman numeral ranges like `xxxiv.-xlviii.`?
 * [ ] Abbreviations:
+  * [ ] `Chron.`
   * [ ] `CO.` (does abbr.json handle uppercase CO?)
   * [ ] `Cp.`
   * [ ] `Eng.`
@@ -27,9 +28,13 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
   * [ ] `Litt.`
   * [ ] `M DCCC XCV` (p. 1)
   * [ ] `MSS.`
+  * [ ] `n.`
   * [ ] `R.S.`
   * [ ] `Rom.`
+  * [ ] `Soc.`
+  * [ ] `sq.`
   * [ ] `Stat.`
+  * [ ] `Tr.`
   * [ ] `u.s.w.`
 * [ ] 33.png: footnote 1 has poetry, ending with a right-align attrib.
 * [ ] 77.png: `Bradiers and hosiers`: unable to find definition for `Bradiers`. It could be a typo for `Braziers`.
@@ -59,6 +64,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] (html) 67.png starts sec. X, use h3
 * [ ] (html) 69.png starts sec. XI, use h3
 * [ ] (html) 73.png starts sec. XII, use h3
+* [ ] (html) footnote 243 contains `pp. 73a-76b` where `a` and `b` are printed as superscript in the original. **could be others like this.**
 
 ### Project manager notes ###
 
