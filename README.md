@@ -21,6 +21,10 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
   * [ ] `CO.` (does abbr.json handle uppercase CO?)
   * [ ] `Cp.`
   * [ ] `Eng.`
+  * [ ] `Gesch.`
+  * [ ] `H. of C.` (House of Commons?)
+  * [ ] `Hist.`
+  * [ ] `Litt.`
   * [ ] `M DCCC XCV` (p. 1)
   * [ ] `MSS.`
   * [ ] `R.S.`
@@ -115,6 +119,8 @@ p. 36 n. 4: changed “ae” to “æ” (Muratori, Antiquitates Italicae Medii 
 p. 47: changed “no” to “not” (where there did not exist a chest)
 
 p. 55 n. 1: changed “der” to “des” (Geschichte Papst Innocenz des Dritten)
+
+p. 72: changed “Statue” to “Statute” (conditions imposed by the Statute of 1275)
 
 ### HTML file review ###
 The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device. 
