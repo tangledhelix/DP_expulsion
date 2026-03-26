@@ -18,10 +18,13 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] This book has footnotes that break across pages
 * [ ] Use en dash for roman numeral ranges like `xxxiv.-xlviii.`?
 * [ ] Abbreviations:
+  * [ ] `Antiq.`
   * [ ] `Chron.`
   * [ ] `CO.` (does abbr.json handle uppercase CO?)
+  * [ ] `Conc.`
   * [ ] `Cp.`
   * [ ] `Eng.`
+  * [ ] `Exch.`
   * [ ] `Gesch.`
   * [ ] `H. of C.` (House of Commons?)
   * [ ] `Hist.`
@@ -31,6 +34,8 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
   * [ ] `n.`
   * [ ] `R.S.`
   * [ ] `Rom.`
+  * [ ] `Q. R.` (Queen's Remembrancer's)
+  * [ ] `S.` → Saint (at least sometimes)
   * [ ] `Soc.`
   * [ ] `sq.`
   * [ ] `Stat.`
@@ -89,7 +94,10 @@ Basic Fixup flagged `Wirthschafts- und` which occurs in a footnote on 32.png. Lo
 - `advowson` (Usually means: Right to appoint a parish priest)<sup>[1][sp1]</sup>
 - `assizes` (Usually means: Periodic sessions of criminal courts)<sup>[2][sp2]</sup>
 - `besant` alt. form of `bezant`, A coin made of gold or silver, minted at Byzantium and used in currency throughout mediaeval Europe.<sup>[3][sp3],[4][sp4],[5][sp5]</sup>
+- `Capitularies` (Usually means: Royal decrees divided into chapters)<sup>[18][sp18]</sup>
+- `chirographer` (Usually means: One who writes by hand)<sup>[15][sp15]</sup>
 - `couchant` (Usually means: Lying down with head raised)<sup>[6][sp6]</sup>
+- `Decretals` (Usually means: Papal letters containing canon law rulings)<sup>[19][sp19]</sup>
 - `demesne` (Usually means: Land retained by a lord)<sup>[7][sp7]</sup>
 - `distrain` (Usually means: Seize property to compel payment)<sup>[8][sp8]</sup>
 - `enfeoffed` (Usually means: Granted a feudal estate in fee)<sup>[9][sp9]</sup>
@@ -100,6 +108,8 @@ Basic Fixup flagged `Wirthschafts- und` which occurs in a footnote on 32.png. Lo
 - `rapine` (Usually means: Violent seizure and plunder)<sup>[12][sp12]</sup>
 - `seignorial` (Usually means: Relating to a feudal lord)<sup>[13][sp13]</sup>
 - `suffragans` (Usually means: Subordinate bishops under a metropolitan)<sup>[14][sp14]</sup>
+- `trefa` (Usually means: Non-kosher; forbidden for consumption)<sup>[16][sp16]</sup>
+- `vills` (archaic: township or village<sup>[17][sp17]</sup>
 
 [sp1]: https://www.onelook.com/?w=advowson
 [sp2]: https://www.onelook.com/?w=assizes
@@ -115,6 +125,11 @@ Basic Fixup flagged `Wirthschafts- und` which occurs in a footnote on 32.png. Lo
 [sp12]: https://www.onelook.com/?w=rapine
 [sp13]: https://www.onelook.com/?w=seignorial
 [sp14]: https://www.onelook.com/?w=suffragans
+[sp15]: https://www.onelook.com/?w=chirographer
+[sp16]: https://www.onelook.com/?w=trefa
+[sp17]: https://www.collinsdictionary.com/dictionary/english/vill
+[sp18]: https://www.onelook.com/?w=Capitularies
+[sp19]: https://www.onelook.com/?w=Decretals
 
 ### Transcriber's notes ###
 
