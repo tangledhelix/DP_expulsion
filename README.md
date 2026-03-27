@@ -16,7 +16,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 * [ ] First "chapter" (03.png) has no heading. Use `title="Preface"` for EPUB ToC?
 * [x] This book has footnotes that break across pages
-* [ ] Use en dash for roman numeral ranges like `xxxiv.-xlviii.`?
+* [x] Use en dash for roman numeral ranges like `xxxiv.-xlviii.`?
 * [ ] Abbreviations:
   * [ ] `Antiq.`
   * [ ] `Chron.`
@@ -42,7 +42,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
   * [ ] `Tr.`
   * [ ] `u.s.w.`
 * [ ] 33.png: footnote 1 has poetry, ending with a right-align attrib.
-* [ ] 77.png: `Bradiers and hosiers`: unable to find definition for `Bradiers`. It could be a typo for `Braziers`.
+* [x] 77.png: `Bradiers and hosiers`: unable to find definition for `Bradiers`. It could be a typo for `Braziers`.
 * [ ] (txt) 06.png starts sec. I, center
 * [ ] (txt) 14.png starts sec. II, center
 * [ ] (txt) 17.png starts sec. III, center
@@ -142,6 +142,8 @@ p. 47: changed “no” to “not” (where there did not exist a chest)
 p. 55 n. 1: changed “der” to “des” (Geschichte Papst Innocenz des Dritten)
 
 p. 72: changed “Statue” to “Statute” (conditions imposed by the Statute of 1275)
+
+p. 77: changed “Bradiers” to “Braziers” (Braziers and hosiers, bakers and shoemakers)
 
 ### HTML file review ###
 The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device. 
