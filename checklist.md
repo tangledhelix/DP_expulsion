@@ -160,7 +160,7 @@ Instructions for `/* */` and `/# #/` blocks:
 * [x] If needed, validate quotes pairings by searching for `[“”‘’]`
 
 ### Fractions
-* [ ] `Tools → Convert Fractions → Unicode Fractions or Super/Subscript`
+* [x] `Tools → Convert Fractions → Unicode Fractions or Super/Subscript`
 
 This regex: `([¹²³⁴⁵⁶⁷⁸⁹⁰]+⁄[₁₂₃₄₅₆₇₈₉₀]+|[¼½¾⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞⅐⅑⅒↉])` may be of use to locate fractions once converted.
 
