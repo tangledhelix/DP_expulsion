@@ -210,8 +210,8 @@ We now proceed to create a Plain Text Version of the book.
 * [x] Search `  [Footnote` (no regex; 2 leading spaces) to find footnotes in blockquotes; move them out of the blockquote.
 * [x] Under `Tools → Footnote Fixup`, use `Tidy Footnotes`.
   * NOTE: tidy footnotes will rewrap footnote text not protected by wrap markers; so they are not removed until the next step.
-* [ ] `Tools → Clean Up Rewrap Markers`.
-* [ ] Rerun Bookloupe or pptext. Resolve any new issues.
+* [x] `Tools → Clean Up Rewrap Markers`.
+* [x] Rerun Bookloupe or pptext. Resolve any new issues.
 
 ### Final checks
 * [ ] Search for `<` and `>` to locate any tag markup not yet removed.
