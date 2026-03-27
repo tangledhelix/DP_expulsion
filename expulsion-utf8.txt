@@ -16,7 +16,7 @@ _Formerly Scholar of Balliol College._
 
 Oxford
 
-B. H. BLACKWELL 50 <sc>AND</sc> 51, BROAD STREET
+B. H. BLACKWELL 50 AND 51, BROAD STREET
 
 London
 
@@ -45,9 +45,9 @@ _Review_ for permission to republish it.
 
 I wish to express my obligations to _Bibliotheca Anglo-Judaica:
 a Bibliographical Guide to Anglo-Jewish History_,
-compiled by Messrs. <sc>Joseph Jacobs</sc> and <sc>Lucien Wolf</sc>,
-and to _The Jews of Angevin England_, by Mr. <sc>Joseph
-Jacobs</sc>. Nearly all the passages bearing on Anglo-Jewish
+compiled by Messrs. JOSEPH JACOBS and LUCIEN WOLF,
+and to _The Jews of Angevin England_, by Mr. JOSEPH
+JACOBS. Nearly all the passages bearing on Anglo-Jewish
 history, down to 1206, are contained in the latter book,
 and many of the references in the earlier part of my essay
 might have been made to its pages. I thought it better,
@@ -55,8 +55,8 @@ however, to refer direct to the original authorities, and
 have, as a rule, mentioned Mr. Jacobs’ book only when
 using passages in it which have been nowhere else printed.
 
-Some articles which I have contributed to Mr. <sc>R. H. I.
-Palgrave’s</sc> _Dictionary of Political Economy_, to the First
+Some articles which I have contributed to Mr. R. H. I.
+PALGRAVE’S _Dictionary of Political Economy_, to the First
 Volume of the _Transactions of the Jewish Historical Society
 of England_, and to the _Jewish Chronicle_ for April 26th,
 1895, contain information bearing on the subject of this
@@ -98,7 +98,7 @@ enough when they converged to bring about the result
 which is to be accounted for.
 
 
-I.--<sc>The Jews from their Arrival to 1190.</sc>
+I.--THE JEWS FROM THEIR ARRIVAL TO 1190.
 
 Among the foreigners who flocked to England at, or
 soon after, the Conquest were many families of French
@@ -441,7 +441,7 @@ taken away.[21]
 Norwich and Aaron of Lincoln. Jacobs, _Op. Cit._, 44, 64, 84, 90, 91.]
 
 
-II.--<sc>The Constitution of the Jewry.</sc>
+II.--THE CONSTITUTION OF THE JEWRY.
 
 Richard’s policy, or his councillors’, was simple. On the
 one hand, in order to encourage rich Jews to continue to
@@ -593,7 +593,7 @@ different moment. Hence the various forms of opposition
 must be separately considered.
 
 
-III.--<sc>The Conflict with the Towns.</sc>
+III.--THE CONFLICT WITH THE TOWNS.
 
 The towns were the first to carry out a practical and
 effective anti-Jewish policy. It was they that suffered
@@ -642,7 +642,7 @@ _Rot. Chart._, 93.]
 [Footnote 39: Cutts, _Colchester_, 123; Tovey, _Anglia J._, 50; _Forty-Seventh Report
 of Deputy-Keeper of Public Records_, 306; Lyte, _History of the University
 of Oxford_, 59; _Papers of Anglo-Jewish Historical Exhibition_,
-35–6; _De Antiquis Legibus Liber_ (Camden Soc.), p. 16, (<sc>A.D.</sc> 1249, Nam
+35–6; _De Antiquis Legibus Liber_ (Camden Soc.), p. 16, (A.D. 1249, Nam
 rex concessit quod Judei qui antea warantizati fuerunt per breve de
 scaccario, de cetero placitassent coram civibus de tenementis suis in
 Londoniis). _Chronica Jocelini de Brakelonda_ (Camden Soc.), p. 2, (Venit
@@ -738,7 +738,7 @@ aliqua villa sine speciali licentia Regis, nisi in villis illis in quibus
 Judaei manere consueverunt.]
 
 
-IV.--<sc>The Conflict with the Barons.</sc>
+IV.--THE CONFLICT WITH THE BARONS.
 
 At the same time that the towns were making their
 attack on the Jews in their own way, there was growing
@@ -875,7 +875,7 @@ Pierre de Langtoft_ (R. S.), II., 151; _Chronicle of William de Rishanger_
 Chronicis_ (English Historical Society), II. 192.]
 
 
-V.--<sc>The Beginning of Edward’s Policy of Restriction.</sc>
+V.--THE BEGINNING OF EDWARD’S POLICY OF RESTRICTION.
 
 When the Civil War was over, the position of the King’s
 son Edward as, on the one hand, the sworn friend of the
@@ -1110,7 +1110,7 @@ Abbreviatio_ (Record Commission), p. 58, col. 2.]
 [Footnote 78: Blunt, _Establishment and Residence_, etc., 134–9.]
 
 
-VI.--<sc>The Prohibition of Usury.</sc>
+VI.--THE PROHIBITION OF USURY.
 
 Very soon after the passing of the Statute of 1270,
 Edward left England to join the second Crusade of St.
@@ -1460,7 +1460,7 @@ Demurrer_, 58.]
 [Footnote 116: Blunt, _Establishment and Residence_, etc., 139–144.]
 
 
-VII.--<sc>Edward’s Policy: The Jews and Trade.</sc>
+VII.--EDWARD’S POLICY: THE JEWS AND TRADE.
 
 Thus the Jews, already shut out from the feudal and
 municipal organisation of the country, were forbidden by
@@ -1745,7 +1745,7 @@ a sum as earnest-money, and then took a bond (Peruzzi, 70). Cf. Tovey,
 207.]
 
 
-VIII.--<sc>The Temptations of the Jews.</sc>
+VIII.--THE TEMPTATIONS OF THE JEWS.
 
 But even for those Jews who were rich enough to take
 part in wholesale trade, there was still a great temptation
@@ -1881,7 +1881,7 @@ clipping the coin.
 [Footnote 157: _Calendar of Patent Rolls_, 1281–1292, p. 98; _Papers Anglo-Jewish Hist.
 Ex._ 167.]
 
-[Footnote 158: See _Dictionary of Political Economy_, Article <sc>Jews</sc>, (House for
+[Footnote 158: See _Dictionary of Political Economy_, Article JEWS, (House for
 Converted).]
 
 The offence had long been prevalent. In 1248 such
@@ -2120,8 +2120,8 @@ the Jews. The growth and nature of this hostility must
 now be considered.
 
 
-IX.--<sc>The Jews in Relation to the Church of the
-Thirteenth Century.</sc>
+IX.--THE JEWS IN RELATION TO THE CHURCH OF THE
+THIRTEENTH CENTURY.
 
 The Popes of the earlier part of the Middle Ages had
 found enough employment for their energies in the effort
@@ -2161,7 +2161,7 @@ with the Archbishop in 1188); _Rotuli Litterarum Clausarum_ (Record
 Commission), I., 20_b_. (_Rex, &c., domino Lincolniensi Episcopo, &c.;
 mandamus vobis quod non permittatis injuste catalle Judæorum receptari
 in ecclesiis in diocesi vestra_, February 28th, 1205); _Chronica Jocelini de
-Brakelonde_ (Camden Society), p. 33. (<sc>A.D.</sc> 1190, _Abbas jussit solempniter
+Brakelonde_ (Camden Society), p. 33. (A.D. 1190, _Abbas jussit solempniter
 excommunicari illos qui de cetero receptarent Judeos vel in hospicio
 reciperent in villa Santi Ædmundi_); Jacobs, _The Jews of Angevin
 England_, 269. (“_English Jews drink with Gentiles._”)]
@@ -2728,7 +2728,7 @@ Let us know fully by your letters what you do in this
 matter.”
 
 
-X.--<sc>The Effects of the Clerical Opposition.</sc>
+X.--THE EFFECTS OF THE CLERICAL OPPOSITION.
 
 Edward was too religious to disregard the wishes of the
 Pope, expressed thus formally and solemnly and with the
@@ -2805,7 +2805,7 @@ Society), 208, 219; Tovey, _Anglia Judaica_, 200.]
 [Footnote 222: Graetz, _Geschichte der Juden_ (Second Edition), VII., note 11.]
 
 
-XI.--<sc>The Expulsion.</sc>
+XI.--THE EXPULSION.
 
 Of the course of events for the first few months after
 Edward’s return to England, very meagre accounts have
@@ -2985,7 +2985,7 @@ mentioned in _Q. R. Miscellanea_ are granted away by deeds included in the
 _Rotuli Originalium_ and the Lansdowne Transcript.]
 
 
-XII.--<sc>The Necessity for the Expulsion.</sc>
+XII.--THE NECESSITY FOR THE EXPULSION.
 
 The Expulsion was not the act of a cruel king. The
 forbearance which marks the orders to the officers who
@@ -3258,7 +3258,7 @@ willingly outside the national and municipal life.
 
 [Footnote 275: Jacobs, 269.]
 
-[Footnote 276: <sc>Jewish Quarterly Review</sc>, IV., 12, 551; _Hist. Litt. de la France_,
+[Footnote 276: JEWISH QUARTERLY REVIEW, IV., 12, 551; _Hist. Litt. de la France_,
 27, 485, 650, _sq._]
 
 Their isolation caused them no sorrow. Rather must
@@ -3318,8 +3318,8 @@ oppressors and the oppressed.[281]
 
 [Footnote 277: _Hist. Litt. de France_, XXVII., 27, 650, _sq._]
 
-[Footnote 278: _Hist. Litt._, 435, 441, 462, 484, 487, 507, _sq._; <sc>Jewish Quarterly
-Review</sc>, IV., 25.]
+[Footnote 278: _Hist. Litt._, 435, 441, 462, 484, 487, 507, _sq._; JEWISH QUARTERLY
+REVIEW, IV., 25.]
 
 [Footnote 279: Jacobs, 286.]
 
