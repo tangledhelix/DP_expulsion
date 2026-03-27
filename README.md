@@ -135,11 +135,11 @@ Basic Fixup flagged `Wirthschafts- und` which occurs in a footnote on 32.png. Lo
 
 Obvious punctuation misprints were silently corrected.
 
-p. 36 n. 4: changed “ae” to “æ” (Muratori, Antiquitates Italicae Medii Aevi, I. 889.)
+p. 36 n. 4: (footnote 106 in this file) changed “Italicae” to “Italicæ” (Muratori, Antiquitates Italicæ Medii Aevi, I. 889.)
 
 p. 47: changed “no” to “not” (where there did not exist a chest)
 
-p. 55 n. 1: changed “der” to “des” (Geschichte Papst Innocenz des Dritten)
+p. 55 n. 1: (footnote 187 in this file) changed “der” to “des” (Geschichte Papst Innocenz des Dritten)
 
 p. 72: changed “Statue” to “Statute” (conditions imposed by the Statute of 1275)
 
