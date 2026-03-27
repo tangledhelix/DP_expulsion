@@ -2,7 +2,6 @@
 
 
 
-/F
                        Arnold Prize Essay, 1894.
 
                           THE EXPULSION OF THE
@@ -23,16 +22,13 @@
                 SIMPKIN, MARSHALL, HAMILTON, KENT & CO.
 
                                M DCCC XCV
-F/
 
 
 
 
-/F
                                 LONDON:
                     PRINTED BY WERTHEIMER, LEA & CO.
                        CIRCUS PLACE, LONDON WALL.
-F/
 
 
 
@@ -2448,14 +2444,10 @@ Literatur des Römisch-Canonischen Rechts_.
 
 [87]
 
-/P
     E pero lo minor giron suggella,
     Del segno suo e Sodoma e Caorsa.
-P/
 
-/R
                                                   _Inferno_, XI. 49, 50.
-R/
 
 
 [88] _Monumenta Franciscana_ (Rolls Series), XLV., L., 10, 38–9, 61.
