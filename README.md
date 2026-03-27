@@ -43,18 +43,18 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
   * [ ] `u.s.w.`
 * [ ] 33.png: footnote 1 has poetry, ending with a right-align attrib.
 * [x] 77.png: `Bradiers and hosiers`: unable to find definition for `Bradiers`. It could be a typo for `Braziers`.
-* [ ] (txt) 06.png starts sec. I, center
-* [ ] (txt) 14.png starts sec. II, center
-* [ ] (txt) 17.png starts sec. III, center
-* [ ] (txt) 21.png starts sec. IV, center
-* [ ] (txt) 24.png starts sec. V, center
-* [ ] (txt) 30.png starts sec. VI, center
-* [ ] (txt) 37.png starts sec. VII, center
-* [ ] (txt) 44.png starts sec. VIII, center
-* [ ] (txt) 53.png starts sec. IX, center
-* [ ] (txt) 67.png starts sec. X, center
-* [ ] (txt) 69.png starts sec. XI, center
-* [ ] (txt) 73.png starts sec. XII, center
+* [x] (txt) 06.png starts sec. I, center
+* [x] (txt) 14.png starts sec. II, center
+* [x] (txt) 17.png starts sec. III, center
+* [x] (txt) 21.png starts sec. IV, center
+* [x] (txt) 24.png starts sec. V, center
+* [x] (txt) 30.png starts sec. VI, center
+* [x] (txt) 37.png starts sec. VII, center
+* [x] (txt) 44.png starts sec. VIII, center
+* [x] (txt) 53.png starts sec. IX, center
+* [x] (txt) 67.png starts sec. X, center
+* [x] (txt) 69.png starts sec. XI, center
+* [x] (txt) 73.png starts sec. XII, center
 * [ ] (html) 03.png opening paragraph is noindent
 * [ ] (html) 05.png opening paragraph is noindent, starts with smallcaps
 * [ ] (html) 06.png starts sec. I, use h3
