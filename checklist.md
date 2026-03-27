@@ -179,7 +179,7 @@ For now, do not process EM dash. The EM dash and long dash (2x EM) are left for 
 
 ### Save Edited Markup
 * [x] Save any unsaved changes
-* [ ] Use `File → Save a Copy As` to make `expulsion.html`
+* [x] Use `File → Save a Copy As` to make `expulsion.html`
   * This will be the starting file for the HTML version. You can also use it  as fallback in case you mess up and need to start the following steps over.
 
 ## Prepare the Plain Text Version
