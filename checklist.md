@@ -245,14 +245,14 @@ p. 123: changed “foo” to “fool” (the fool and his money)
 ```
 
 ### Final review
-* [ ] Skim over text file to find any obvious issues
+* [x] Skim over text file to find any obvious issues
 
 ### Validation
-* [ ] `Text → PPtxt`
+* [x] `Text → PPtxt`
 
 ## Prepare the HTML Version
 Finally, we create an HTML version of the book.
-* [ ] Open `expulsion.html` that was saved previously.
+* [x] Open `expulsion.html` that was saved previously.
 
 ### Convert EM and LONG dashes to UTF8
 Earlier, EN dashes were converted. That's done before the split for both versions. The EM and LONG dash conversions are left for HTML only, because the EM dash character displays as a fixed width for most readers of the text file. There have been differences of opinion about this matter, but I'm sticking to `--`, `----` in the text unless PG stops accepting it.
@@ -263,7 +263,7 @@ There exists another dash (HORIZONTAL BAR, U+2015) which one PM/PP prefers to EM
 
 References: ([p1347865](https://www.pgdp.net/phpBB3/viewtopic.php?p=1347865#p1347865)), ([p1179008](https://www.pgdp.net/phpBB3/viewtopic.php?p=1179008#p1179008))
 
-* [ ] [Em dash](https://www.pgdp.net/wiki/Em-dash):
+* [x] [Em dash](https://www.pgdp.net/wiki/Em-dash):
   * `Tools → Regex Library` and load the dashes.json file
   * Use only the first regex (em-dash) and ignore the others, which were done already.
   * Since we treat a long dash as two em-dashes, this takes care of both.
