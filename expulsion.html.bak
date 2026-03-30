@@ -324,6 +324,9 @@ p.drop-cap::first-letter {
 .tp-l { font-size: 115%; }
 .tp-xl { font-size: 150%; }
 
+/* for a footnote poetry attribution */
+.attribution1 { padding-left: 10em; }
+
     </style>
 </head>
 <body>
@@ -380,7 +383,7 @@ and April, 1895. I am indebted to the Editors of the
 
 <p>I wish to express my obligations to <cite>Bibliotheca Anglo-Judaica:
 a Bibliographical Guide to Anglo-Jewish History</cite>,
-compiled by Messrs. <span class="smcap">Joseph Jacobs</span> and <span class="smcap">Lucien Wolf</span>,
+compiled by <abbr title="Misters">Messrs.</abbr> <span class="smcap">Joseph Jacobs</span> and <span class="smcap">Lucien Wolf</span>,
 and to <cite>The Jews of Angevin England</cite>, by <abbr>Mr.</abbr> <span class="smcap">Joseph
 Jacobs</span>. Nearly all the passages bearing on Anglo-Jewish
 history, down to 1206, are contained in the latter book,
@@ -410,7 +413,7 @@ Essay.
 </div>
 
 
-<p class="noindent">The expulsion of the Jews from England by Edward <abbr title="the First">I.</abbr> is
+<p class="noindent"><span class="smcap">The</span> expulsion of the Jews from England by Edward <abbr title="the First">I.</abbr> is
 a measure concerning the causes of which no contemporary
 historian gives, or pretends to give, any but the most
 meagre information. It was passed by the King in his
@@ -1770,7 +1773,7 @@ the “greatest of the Plantagenets” throughout his reign.</p>
 <p>Under such conditions degeneration was inevitable. Some
 of the Jews are said to have taken to highway robbery
 and burglary;&#x2060;<a id="FNanchor_157_157" href="#Footnote_157_157" class="fnanchor">[157]</a> some went into the House of Converts,
-where they got 1½d. a day and free lodging.&#x2060;<a id="FNanchor_158_158" href="#Footnote_158_158" class="fnanchor">[158]</a> But to the
+where they got 1½<abbr title="pence">d.</abbr> a day and free lodging.&#x2060;<a id="FNanchor_158_158" href="#Footnote_158_158" class="fnanchor">[158]</a> But to the
 dishonest there was open a far more profitable form of
 dishonesty than either of those already mentioned, <abbr>viz.</abbr>,
 clipping the coin.</p>
@@ -1937,9 +1940,10 @@ the thirteenth century, unlike their predecessors, regarded
 the Jews. The growth and nature of this hostility must
 now be considered.</p>
 
-
-<p><abbr title="9">IX.</abbr>—<span class="smcap">The Jews in Relation to the Church of the
-Thirteenth Century.</span></p>
+<h3 id="IX-The_Jews_in_Relation_to_the_Church_of_the_Thirteenth_Century">
+  <abbr title="9">IX.</abbr>—<span class="smcap">The Jews in Relation to the Church of the
+Thirteenth Century.</span>
+</h3>
 
 <p>The Popes of the earlier part of the Middle Ages had
 found enough employment for their energies in the effort
@@ -2991,7 +2995,7 @@ Angevin England</cite>, 54, 178; <cite>Statutes of the Realm</cite> (Edition of 
 Jurisdiction in Norwich</cite> (Selden Society, 1891), <abbr title="page">p.</abbr> 28, where, in a list of
 amercements inflicted at the Leet of Nedham and Manecroft, the following
 entry occurs:—“De Johanne le Pastemakere quia vendidit Carnes
-quas Judei vocant trefa, 2s.”</p></div>
+quas Judei vocant trefa, 2<abbr title="shillings">s.</abbr>”</p></div>
 
 <div class="footnote"><p><a id="Footnote_7_7" href="#FNanchor_7_7" class="label">[7]</a> Mansi, <cite>Sacrorum Conciliorum Collectio</cite>, Venice, 1775, <abbr title="20">XX.</abbr> 399; Wilkins,
 <cite>Concilia Magnae Britanniae</cite>, <abbr title="1">I.</abbr> 591, 675, 719; <cite>Gesta Henrici <abbr title="the Second">II.</abbr> et
@@ -3175,7 +3179,7 @@ habeant seisinam); <cite>Gesta abbatum Monasterii S. Albani</cite> (R. S.), <abb
 Prynne, <cite>Second Part of a Short Demurrer</cite>, <abbr title="page">p.</abbr> 105.</p></div>
 
 <div class="footnote"><p><a id="Footnote_58_58" href="#FNanchor_58_58" class="label">[58]</a> A very long list of landowners indebted to the Jews could be extracted
-from Madox, <cite>History of Exchequer</cite>, <abbr title="Volume">Vol.</abbr> <abbr title="1">I.</abbr>, <abbr title="page">p.</abbr> 227, <i>sq.</i> <abbr>Cf.</abbr> Prynne,
+from Madox, <cite>History of Exchequer</cite>, <abbr title="Volume">Vol.</abbr> <abbr title="1">I.</abbr>, <abbr title="page">p.</abbr> 227, <i><abbr>sq.</abbr></i> <abbr>Cf.</abbr> Prynne,
 <cite>Second Part</cite>, <abbr>etc.</abbr>, <abbr title="pages">pp.</abbr> 96, 98, 106; <cite>Calendar of Patent Rolls from 1281
 to 1292</cite>, <abbr title="page">p.</abbr> 25.</p></div>
 
@@ -3215,7 +3219,7 @@ Society), 1892, <abbr title="pages">pp.</abbr> 10, 18.</p></div>
 <div class="footnote"><p><a id="Footnote_74_74" href="#FNanchor_74_74" class="label">[74]</a> <cite>Gesta Abbatum Monasterii S. Albani</cite> (Rolls Series), <abbr title="1">I.</abbr> 401; <cite>Placitorum
 Abbreviatio</cite> (Record Commission), <abbr title="page">p.</abbr> 58, col. 2.</p></div>
 
-<div class="footnote"><p><a id="Footnote_75_75" href="#FNanchor_75_75" class="label">[75]</a> <cite>De Antiquis Legibus Liber</cite> (Camden Society), 234 <i>sq.</i></p></div>
+<div class="footnote"><p><a id="Footnote_75_75" href="#FNanchor_75_75" class="label">[75]</a> <cite>De Antiquis Legibus Liber</cite> (Camden Society), 234 <i><abbr>sq.</abbr></i></p></div>
 
 <div class="footnote"><p><a id="Footnote_76_76" href="#FNanchor_76_76" class="label">[76]</a> Hefele, <cite>Conciliengeschichte</cite>, <abbr title="5">V.</abbr>, 1028.</p></div>
 
@@ -3252,7 +3256,7 @@ des Römisch-Canonischen Rechts</cite>.</p></div>
   </div>
 </div>
 
-<p class="right">
+<p class="attribution1">
   <cite>Inferno</cite>, <abbr title="11">XI.</abbr> 49, 50.
 </p></div>
 
@@ -3275,7 +3279,7 @@ Concilia</cite>, <abbr title="11">xi.</abbr> 991, 2.</p></div>
 
 <div class="footnote"><p><a id="Footnote_96_96" href="#FNanchor_96_96" class="label">[96]</a> Depping, <cite>Les Juifs dans le Moyen Age</cite>, 202, 207; Muratori, <cite>Antiquitates
 Italicæ Medii Aevi</cite>, <abbr title="1">I.</abbr> 899, 900; <cite>Ninth Report of the Historical
-Manuscripts Commission</cite>, <abbr title="page">p.</abbr> 14 (No. 264).</p></div>
+Manuscripts Commission</cite>, <abbr title="page">p.</abbr> 14 (<abbr title="Number">No.</abbr> 264).</p></div>
 
 <div class="footnote"><p><a id="Footnote_97_97" href="#FNanchor_97_97" class="label">[97]</a> <cite>Forty-fourth Report of Deputy-Keeper of Public Records</cite>, <abbr title="pages">pp.</abbr> 8, 9, 72;
 <cite>The Question whether a Jew</cite>, <abbr>etc.</abbr>, by a Gentleman of Lincoln’s Inn
@@ -3290,7 +3294,7 @@ Manuscripts Commission</cite>, <abbr title="page">p.</abbr> 14 (No. 264).</p></d
 <div class="footnote"><p><a id="Footnote_101_101" href="#FNanchor_101_101" class="label">[101]</a> Rymer, <cite>Foedera</cite>, <abbr title="1">I.</abbr> 489. <abbr>Cf.</abbr> <cite>Jewish Chronicle</cite> for April 26, 1895, <abbr title="page">p.</abbr> 19,
 col. 2.</p></div>
 
-<div class="footnote"><p><a id="Footnote_102_102" href="#FNanchor_102_102" class="label">[102]</a> <cite>Chronicles <abbr title="Edward">Ed.</abbr> <abbr title="the First">I.</abbr> and <abbr title="the Second">II.</abbr></cite> (<abbr title="edited by">ed.</abbr> Stubbs), <abbr title="Volume">Vol.</abbr> <abbr title="1">I.</abbr>, <abbr title="page">p.</abbr> <abbr title="100">c.</abbr> <abbr>Cf.</abbr> <cite>Forty-second
+<div class="footnote"><p><a id="Footnote_102_102" href="#FNanchor_102_102" class="label">[102]</a> <cite>Chronicles <abbr title="Edward">Ed.</abbr> <abbr title="the First">I.</abbr> and <abbr title="the Second">II.</abbr></cite> (<abbr title="edited by">ed.</abbr> Stubbs), <abbr title="Volume">Vol.</abbr> <abbr title="1">I.</abbr>, <abbr title="page">p.</abbr> <abbr title="100"><span class="smcap">c</span>.</abbr> <abbr>Cf.</abbr> <cite>Forty-second
 Report of Deputy-Keeper of Public Records</cite>, <abbr title="page">p.</abbr> 479 (At the beginning of
 his reign Edward says, in his writs to the sheriffs, “Pecuniæ plurimum
 indigemus”). <cite>Forty-third Report</cite>, 419.</p></div>
@@ -3407,13 +3411,13 @@ and old debts still unpaid long after the Statutes of 1270–1275 had been
 passed, see MSS. in Public Record Office (<cite>Queen’s Remembrancer’s
 Miscellanea</cite>, 557, 13–23); Rymer, <abbr title="1">I.</abbr> 570; John of Peckham, <abbr title="1">I.</abbr> 937;
 <cite>Calendar of Patent Rolls</cite>, 1281–1292, <abbr title="page">p.</abbr> 81; Prynne, <cite>Second Demurrer</cite>,
-<abbr title="pages">pp.</abbr> 74 and 80 (=154).</p></div>
+<abbr title="pages">pp.</abbr> 74 and 80 (=154) (＝154).</p></div>
 
 <div class="footnote"><p><a id="Footnote_146_146" href="#FNanchor_146_146" class="label">[146]</a> Labbeus, <cite>Sacrosancta Concilia</cite>, <abbr title="11">XI.</abbr> 649–50.</p></div>
 
 <div class="footnote"><p><a id="Footnote_147_147" href="#FNanchor_147_147" class="label">[147]</a> Vinogradoff, <cite>Villeinage in England</cite>, 179, 307.</p></div>
 
-<div class="footnote"><p><a id="Footnote_148_148" href="#FNanchor_148_148" class="label">[148]</a> M. Paris, <abbr title="5">V.</abbr> 245; Wilkins, <cite><abbr title="Concilia">Conc.</abbr></cite>, <abbr title="1">I.</abbr> 675; <cite>De Antiq. Legibus</cite>, 234 sq.
+<div class="footnote"><p><a id="Footnote_148_148" href="#FNanchor_148_148" class="label">[148]</a> M. Paris, <abbr title="5">V.</abbr> 245; Wilkins, <cite><abbr title="Concilia">Conc.</abbr></cite>, <abbr title="1">I.</abbr> 675; <cite>De Antiq. Legibus</cite>, 234 <abbr>sq.</abbr>
 (Archbishop of York’s remarks on the corruption of the Great Council and
 on the <i lang="la">fautores</i> of Jews.)</p></div>
 
@@ -3694,10 +3698,10 @@ Historical Exhibition</cite>, 21.</p></div>
 
 <div class="footnote"><p><a id="Footnote_243_243" href="#FNanchor_243_243" class="label">[243]</a> A list, not quite complete, of the houses belonging to the expelled
 Jews is contained in the Manuscript known as <cite>Q. R. Miscellanea</cite>: “Jews,”
-No. 557, 9 and 11 (Public Record Office). A list of persons who received
+<abbr title="Number">No.</abbr> 557, 9 and 11 (Public Record Office). A list of persons who received
 from the King grants of Jews’ houses, to hold at a nominal rental, is
 printed in <cite>Rotulorum Originalium Abbreviatio</cite> (Record Commission)
-<abbr title="pages">pp.</abbr> 73a-76b, and the deeds of gift are copied in full in <cite>Lansdowne MSS.</cite>
+<abbr title="pages">pp.</abbr> 73<sup>a</sup>-76<sup>b</sup>, and the deeds of gift are copied in full in <cite>Lansdowne MSS.</cite>
 (British Museum) <abbr title="Volume">Vol.</abbr> 826, Part 5, Transcript 4. Nearly all the houses
 mentioned in <cite>Q. R. Miscellanea</cite> are granted away by deeds included in the
 <cite>Rotuli Originalium</cite> and the Lansdowne Transcript.</p></div>
@@ -3791,11 +3795,11 @@ Stadt Rom.</cite>, <abbr title="5">V.</abbr>, 308.</p></div>
 <div class="footnote"><p><a id="Footnote_275_275" href="#FNanchor_275_275" class="label">[275]</a> Jacobs, 269.</p></div>
 
 <div class="footnote"><p><a id="Footnote_276_276" href="#FNanchor_276_276" class="label">[276]</a> <span class="smcap">Jewish Quarterly Review</span>, <abbr title="4">IV.</abbr>, 12, 551; <cite>Hist. Litt. de la France</cite>,
-27, 485, 650, <i>sq.</i></p></div>
+27, 485, 650, <i><abbr>sq.</abbr></i></p></div>
 
-<div class="footnote"><p><a id="Footnote_277_277" href="#FNanchor_277_277" class="label">[277]</a> <cite>Hist. Litt. de France</cite>, <abbr title="27">XXVII.</abbr>, 27, 650, <i>sq.</i></p></div>
+<div class="footnote"><p><a id="Footnote_277_277" href="#FNanchor_277_277" class="label">[277]</a> <cite>Hist. Litt. de France</cite>, <abbr title="27">XXVII.</abbr>, 27, 650, <i><abbr>sq.</abbr></i></p></div>
 
-<div class="footnote"><p><a id="Footnote_278_278" href="#FNanchor_278_278" class="label">[278]</a> <cite>Hist. Litt.</cite>, 435, 441, 462, 484, 487, 507, <i>sq.</i>; <span class="smcap">Jewish Quarterly
+<div class="footnote"><p><a id="Footnote_278_278" href="#FNanchor_278_278" class="label">[278]</a> <cite>Hist. Litt.</cite>, 435, 441, 462, 484, 487, 507, <i><abbr>sq.</abbr></i>; <span class="smcap">Jewish Quarterly
 Review</span>, <abbr title="4">IV.</abbr>, 25.</p></div>
 
 <div class="footnote"><p><a id="Footnote_279_279" href="#FNanchor_279_279" class="label">[279]</a> Jacobs, 286.</p></div>

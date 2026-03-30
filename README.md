@@ -14,7 +14,8 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Things to revisit ###
 
-* [ ] First "chapter" (03.png) has no heading. Use `title="Preface"` for EPUB ToC?
+* [x] First "chapter" (03.png) has no heading. Use `title="Preface"` for EPUB ToC?
+    * no need for this to have its very own ToC entry...
 * [x] This book has footnotes that break across pages
 * [x] Use en dash for roman numeral ranges like `xxxiv.-xlviii.`?
 * [ ] Abbreviations:
@@ -44,7 +45,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
   * [ ] `Stat.`
   * [ ] `Tr.`
   * [ ] `u.s.w.`
-* [ ] 33.png: footnote 1 has poetry, ending with a right-align attrib.
+* [x] 33.png: footnote 1 has poetry, ending with a right-align attrib.
 * [x] 77.png: `Bradiers and hosiers`: unable to find definition for `Bradiers`. It could be a typo for `Braziers`.
 * [x] (txt) 06.png starts sec. I, center
 * [x] (txt) 14.png starts sec. II, center
@@ -58,21 +59,22 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] (txt) 67.png starts sec. X, center
 * [x] (txt) 69.png starts sec. XI, center
 * [x] (txt) 73.png starts sec. XII, center
-* [ ] (html) 03.png opening paragraph is noindent
-* [ ] (html) 05.png opening paragraph is noindent, starts with smallcaps
-* [ ] (html) 06.png starts sec. I, use h3
-* [ ] (html) 14.png starts sec. II, use h3
-* [ ] (html) 17.png starts sec. III, use h3
-* [ ] (html) 21.png starts sec. IV, use h3
-* [ ] (html) 24.png starts sec. V, use h3
-* [ ] (html) 30.png starts sec. VI, use h3
-* [ ] (html) 37.png starts sec. VII, use h3
-* [ ] (html) 44.png starts sec. VIII, use h3
-* [ ] (html) 53.png starts sec. IX, use h3
-* [ ] (html) 67.png starts sec. X, use h3
-* [ ] (html) 69.png starts sec. XI, use h3
-* [ ] (html) 73.png starts sec. XII, use h3
-* [ ] (html) footnote 243 contains `pp. 73a-76b` where `a` and `b` are printed as superscript in the original. **could be others like this.**
+* [x] (html) 03.png opening paragraph is noindent
+* [x] (html) 05.png opening paragraph is noindent, starts with smallcaps
+* [x] (html) 06.png starts sec. I, use h3
+* [x] (html) 14.png starts sec. II, use h3
+* [x] (html) 17.png starts sec. III, use h3
+* [x] (html) 21.png starts sec. IV, use h3
+* [x] (html) 24.png starts sec. V, use h3
+* [x] (html) 30.png starts sec. VI, use h3
+* [x] (html) 37.png starts sec. VII, use h3
+* [x] (html) 44.png starts sec. VIII, use h3
+* [x] (html) 53.png starts sec. IX, use h3
+* [x] (html) 67.png starts sec. X, use h3
+* [x] (html) 69.png starts sec. XI, use h3
+* [x] (html) 73.png starts sec. XII, use h3
+* [x] (html) footnote 243 contains `pp. 73a-76b` where `a` and `b` are printed as superscript in the original. **could be others like this.**
+    * Looked over footnotes in original scans; didn't see any others.
 
 ### Project manager notes ###
 
