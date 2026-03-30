@@ -294,7 +294,7 @@ References: ([p1347865](https://www.pgdp.net/phpBB3/viewtopic.php?p=1347865#p134
 * [x] Remove the [Generated TOC](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/HTML_Menu#Generated_TOC) if it is not needed.
 * [x] If `A.M.` `P.M.` or similar abbreviations were used and have spaces, insert `&nbsp;` to avoid undesirable mid-abbreviation line wraps.
 * [x] If {super,sub}scripts were used, convert to `<sup>` or `<sub>` (NOTE: does Guiguts do this itself? Seems to for subs.)
-* [ ] Semantic fixup for italics
+* [x] Semantic fixup for italics
   * Use the Regex Library tool and `italic_semantic.json`.
   * Note: `lang="xx"` can be used on **any** HTML tag including `cite`, `em`, ...
   * [List of language codes](http://www.w3schools.com/tags/ref_language_codes.asp)
