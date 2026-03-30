@@ -21,6 +21,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
   * [ ] `Antiq.`
   * [ ] `Chron.`
   * [ ] `CO.` (does abbr.json handle uppercase CO?)
+  * [ ] `col.`
   * [ ] `Conc.`
   * [ ] `Cp.`
   * [ ] `Eng.`
@@ -28,12 +29,14 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
   * [ ] `Gesch.`
   * [ ] `H. of C.` (House of Commons?)
   * [ ] `Hist.`
+  * [ ] `Ib.` → `Ibid.`
   * [ ] `Litt.`
   * [ ] `M DCCC XCV` (p. 1)
   * [ ] `MSS.`
   * [ ] `n.`
-  * [ ] `R.S.`
+  * [ ] `R.S.` (Rolls Series?)
   * [ ] `Rom.`
+  * [ ] `Rot.`
   * [ ] `Q. R.` (Queen's Remembrancer's)
   * [ ] `S.` → Saint (at least sometimes)
   * [ ] `Soc.`
@@ -80,6 +83,8 @@ Images from [TIA](https://archive.org/details/expulsionofjewsf00abrarich).
 No posts.
 
 ### General notes ###
+
+[French forum thread on a few phrases in question](https://www.pgdp.net/phpBB3/viewtopic.php?p=1392162#p1392162)
 
 ### Illustrations ###
 
