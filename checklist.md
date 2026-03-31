@@ -463,8 +463,8 @@ To use multi-touch gestures on iPhone/iPad Simulator, hold the Option key.
 This lets you do pinch gestures. To track two fingers together (no pinch),
 e.g. for scrolling, use Shift-Option instead.
 
-* [ ] Scroll through in multiple browsers (Safari, Chrome, Firefox?)
-* [ ] Pay particular attention to complex items like tables, poetry
+* [x] Scroll through in multiple browsers (Safari, Chrome, Firefox?)
+* [x] Pay particular attention to complex items like tables, poetry
 
 ## Ebook generation
 
@@ -504,6 +504,7 @@ Don't necessarily have to do *all* of these, but these are what I have.
 
 * [ ] Review Ebook ToC in at least one e-reader, for structure & content
   * Can try using `title=` attr if a header title has footnote marker etc.
+  * [ ] Footnote 87 contains poetry and an aligned attribution.
 * [ ] Mac
   * [ ] Adobe Digital Editions (epub3)
   * [ ] Apple Books
