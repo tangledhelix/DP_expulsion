@@ -123,12 +123,6 @@ p.noindent { text-indent: 0; }
 /* de-emphasize page numbers */
 .pagenum { color: #bbbbbb; }
 
-/* footnote block styling */
-.footnotes {
-    border: 1px dashed #aaaaaa;
-    margin-top: 1.5em;
-}
-
 /* TN styling */
 .transnote {
     background-color: inherit;
