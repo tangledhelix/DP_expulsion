@@ -401,7 +401,7 @@ For each image:
 * [x] Check revisit list for anything left for the HTML version
 
 ### Add TN
-* [ ] Add transcriber's notes, example follows.
+* [x] Add transcriber's notes, example follows.
 
 ```html
 <div class="transnote">
@@ -427,7 +427,7 @@ An example entry might look like this. Use the book's page numbers, not PNG numb
 </ul>
 ```
 
-* [ ] Make sure the TN has no straight-quotes `'"` and instead uses curly quotes `“”‘’`
+* [x] Make sure the TN has no straight-quotes `'"` and instead uses curly quotes `“”‘’`
 
 ### Validate HTML and CSS
 Perform these validation steps before submitting your book. Validation is also helpful while customizing the HTML and CSS above.
