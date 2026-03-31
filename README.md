@@ -18,33 +18,33 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
     * no need for this to have its very own ToC entry...
 * [x] This book has footnotes that break across pages
 * [x] Use en dash for roman numeral ranges like `xxxiv.-xlviii.`?
-* [ ] Abbreviations:
-  * [ ] `Antiq.`
-  * [ ] `Chron.`
-  * [ ] `CO.` (does abbr.json handle uppercase CO?)
-  * [ ] `col.`
-  * [ ] `Conc.`
-  * [ ] `Cp.`
-  * [ ] `Eng.`
-  * [ ] `Exch.`
-  * [ ] `Gesch.`
-  * [ ] `H. of C.` (House of Commons?)
-  * [ ] `Hist.`
-  * [ ] `Ib.` → `Ibid.`
-  * [ ] `Litt.`
-  * [ ] `M DCCC XCV` (p. 1)
-  * [ ] `MSS.`
-  * [ ] `n.`
-  * [ ] `R.S.` (Rolls Series?)
-  * [ ] `Rom.`
-  * [ ] `Rot.`
-  * [ ] `Q. R.` (Queen's Remembrancer's)
-  * [ ] `S.` → Saint (at least sometimes)
-  * [ ] `Soc.`
-  * [ ] `sq.`
-  * [ ] `Stat.`
-  * [ ] `Tr.`
-  * [ ] `u.s.w.`
+* [x] Abbreviations:
+  * [x] `Antiq.` → Antiquis
+  * [x] `Chron.` → Chronicles
+  * [x] `CO.` (does abbr.json handle uppercase CO?)
+  * [x] `col.` → column
+  * [x] `Conc.` → Concilia
+  * [x] `Cp.` (latin, similar to `cf.`)
+  * [x] `Eng.` → English
+  * [x] `Exch.` → Exchequer
+  * [x] `Gesch.`
+  * [x] `H. of C.` (House of Commons)
+  * [x] `Hist.` → History, Historical, Histoire
+  * [x] `Ib.` → `Ibid.`
+  * [x] `Litt.` → Littéraire
+  * [x] `M DCCC XCV` (p. 1) (1895)
+  * [x] `MSS.` → Manuscripts (added to abbr.json)
+  * [x] `n.` → note
+  * [x] `R.S.` (Rolls Series)
+  * [x] `Rom.`
+  * [x] `Rot.` → Rotuli
+  * [x] `Q. R.` (Queen's Remembrancer)
+  * [x] `S.` → Saint (at least sometimes)
+  * [x] `Soc.` → Society
+  * [x] `sq.` handled in abbr.json
+  * [x] `Stat.` → Statute
+  * [x] `Tr.` → Translation
+  * [x] `u.s.w.`
 * [x] 33.png: footnote 1 has poetry, ending with a right-align attrib.
 * [x] 77.png: `Bradiers and hosiers`: unable to find definition for `Bradiers`. It could be a typo for `Braziers`.
 * [x] (txt) 06.png starts sec. I, center
