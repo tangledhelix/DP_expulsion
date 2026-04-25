@@ -75,6 +75,8 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] (html) 73.png starts sec. XII, use h3
 * [x] (html) footnote 243 contains `pp. 73a-76b` where `a` and `b` are printed as superscript in the original. **could be others like this.**
     * Looked over footnotes in original scans; didn't see any others.
+* [ ] Clean up `<abbr>` style and check all `<abbr>` tags
+    * Remove `border`, `font-variant`
 
 ### Project manager notes ###
 
