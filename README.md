@@ -154,6 +154,8 @@ p. 55 n. 1: (footnote 187 in this file) changed “der” to “des” (Geschich
 
 p. 72: changed “Statue” to “Statute” (conditions imposed by the Statute of 1275)
 
+p. 76: added comma in “The king took it for great shame, That” to align with reference material from attached footnote. It comes from verse. Verified with source material located on archive.org.
+
 p. 77: changed “Bradiers” to “Braziers” (Braziers and hosiers, bakers and shoemakers)
 
 ### HTML file review ###

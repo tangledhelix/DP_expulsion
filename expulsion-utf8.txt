@@ -1961,7 +1961,7 @@ and bitterness. “Hell is without light where they sing lamentations,”
 says one poet of them.[255] Another who, writing a few years after the
 Expulsion, mentions the massacre at the coronation of Richard I., finds
 in it nothing to wonder at, and nothing to regret. To him it is only
-natural that “The king took it for great shame That from such unclean
+natural that “The king took it for great shame, That from such unclean
 things as them any meat to him came.”[256] The chroniclers of the time
 refer to them again and again, and always in the same tone of dislike.
 “The Jews,” says Matthew Paris, in his account of one of the most cruel
@@ -2357,7 +2357,7 @@ Justice of the Jews, M. Paris, _Chronica Majora_, iv. 367.
 [53] _Annales Monastici_, II. 101, 363, 371, III. 230, IV. 141,
 142, 145, 449, 450; _Liber de Antiquis Legibus_ (Camden Society),
 62; _Chronicle of Pierre de Langtoft_ (R. S.), II., 151; _Chronicle
-of William de Rishanger_ (Camden Society), 24. 25, 126; _Florentii
+of William de Rishanger_ (Camden Society), 24, 25, 126; _Florentii
 Wigorniensis Chronicon ex Chronicis_ (English Historical Society), II.
 192.
 
@@ -3064,6 +3064,10 @@ p. 55 n. 1: (footnote 187 in this file) changed “der” to “des”
 
 p. 72: changed “Statue” to “Statute” (conditions imposed by the Statute
 of 1275)
+
+p. 76: added comma in “The king took it for great shame, That” to align
+with reference material from attached footnote. It comes from verse.
+Verified with source material located on archive.org.
 
 p. 77: changed “Bradiers” to “Braziers” (Braziers and hosiers, bakers
 and shoemakers)

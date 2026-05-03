@@ -1,4 +1,4 @@
-
+[**Reviewed only the HTML version; found only two issues; made those proofing notes in text version]
 
 
 
@@ -1961,7 +1961,7 @@ and bitterness. “Hell is without light where they sing lamentations,”
 says one poet of them.[255] Another who, writing a few years after the
 Expulsion, mentions the massacre at the coronation of Richard I., finds
 in it nothing to wonder at, and nothing to regret. To him it is only
-natural that “The king took it for great shame, That from such unclean
+natural that “The king took it for great shame[**punctuation needed?] That from such unclean
 things as them any meat to him came.”[256] The chroniclers of the time
 refer to them again and again, and always in the same tone of dislike.
 “The Jews,” says Matthew Paris, in his account of one of the most cruel
@@ -2259,7 +2259,7 @@ _Chronica Majora_ (R.S.) II. 381, and Jacobs, 162–4.
 
 [28] Jacobs, 222, 228–30, 239–40.
 
-[29] _Ibid._, 328.
+[29] _Ibid._ 328.
 
 [30] Jacobs, 222.
 
@@ -2357,7 +2357,7 @@ Justice of the Jews, M. Paris, _Chronica Majora_, iv. 367.
 [53] _Annales Monastici_, II. 101, 363, 371, III. 230, IV. 141,
 142, 145, 449, 450; _Liber de Antiquis Legibus_ (Camden Society),
 62; _Chronicle of Pierre de Langtoft_ (R. S.), II., 151; _Chronicle
-of William de Rishanger_ (Camden Society), 24, 25, 126; _Florentii
+of William de Rishanger_ (Camden Society), 24.[**,?] 25, 126; _Florentii
 Wigorniensis Chronicon ex Chronicis_ (English Historical Society), II.
 192.
 
@@ -2751,7 +2751,7 @@ the Inquisition_, I. 10, 17.
 
 [188] Graetz, _Geschichte der Juden_, VII., 27.
 
-[189] _Revue des Etudes Juives_, I. 247, 293; II. 248; III. 39; Noel
+[189] _Révue des Etudes Juives_, I. 247, 293; II. 248; III. 39; Noel
 Valois, _Guillaume d’Auvergne_, pp. 118, 137.
 
 [190] _Histoire Littéraire de la France_, XXVII., 562–3; Graetz,
@@ -2821,7 +2821,7 @@ p. 95; Rymer, I., 576; Madox, _Exchequer_, I., 259.
 
 [216] Baronius, _Annales Ecclesiastici_ (ed. Theiner), XIII., 10, 11.
 
-[217] _Revue des Etudes Juives_, I., 298.
+[217] _Révue des Etudes Juives_, I., 298.
 
 [218] Rymer, I., 560–1.
 
@@ -2973,7 +2973,7 @@ Prynne, _Second Demurrer_, 118.
 
 [266] M. Paris, _Chronica Majora_, V. 517; _Annales Monastici_, I. 345.
 
-[267] _Revue des Etudes Juives_, XVIII., 258; _East Anglian_, V. 10;
+[267] _Révue des Etudes Juives_, XVIII., 258; _East Anglian_, V. 10;
 Jacobs, 88–9.
 
 [268] Perrens, _Histoire de Florence_, III., 220–1, 226. Gregorovius,
@@ -3050,9 +3050,6 @@ been retained. Obvious punctuation misprints were silently corrected.
 
 This file uses _underscores_ to indicate italic text. Small capitals
 changed to all capitals.
-
-Changed “Révue” in “Révue des Etudes Juives” to “Revue” (footnotes 189,
-217, 267).
 
 p. 36 n. 4: (footnote 106 in this file) changed “Italicae” to “Italicæ”
 (Muratori, Antiquitates Italicæ Medii Aevi, I. 889.)
