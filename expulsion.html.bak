@@ -132,11 +132,7 @@ p.noindent { text-indent: 0; }
 }
 
 /* don't visibly style abbr */
-abbr {
-    border: none;
-    text-decoration: none;
-    font-variant: normal;
-}
+abbr { text-decoration: none; }
 /* abbrs that should be read letter-by-letter */
 abbr.spell { speak: spell-out; }
 
@@ -196,7 +192,7 @@ SIMPKIN, MARSHALL, HAMILTON, KENT &amp; <abbr title="Company">CO.</abbr></p>
 <p><span class="pagenum" id="Page_2">[Pg 2]</span></p>
 
 <p class="center allsmcap p2">LONDON:<br>
-PRINTED BY WERTHEIMER, LEA &amp; <abbr class="allsmcap" title="Company">CO.</abbr><br>
+PRINTED BY WERTHEIMER, LEA &amp; <abbr title="Company">CO.</abbr><br>
 CIRCUS PLACE, LONDON WALL.</p>
 
 <hr class="chap x-ebookmaker-drop">
