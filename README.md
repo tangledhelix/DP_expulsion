@@ -146,6 +146,9 @@ Obvious punctuation misprints were silently corrected.
 
 Changed “Révue” in “Révue des Etudes Juives” to “Revue” (footnotes 189, 217, 267).
 
+p. 27: changed “Newneton” to “Newnton” (The Church of Newnton could not afford
+clergymen)
+
 p. 36 n. 4: (footnote 106 in this file) changed “Italicae” to “Italicæ” (Muratori, Antiquitates Italicæ Medii Aevi, I. 889.)
 
 p. 47: changed “no” to “not” (where there did not exist a chest)

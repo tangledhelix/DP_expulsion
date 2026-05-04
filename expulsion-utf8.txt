@@ -632,7 +632,7 @@ of dishes with which the abbot might be served in his private room.[67]
 The Prior of Lewes asked permission to turn one of his churches from
 its right use, and to let it for five years to any one who would hire
 it, in order that he might thus get together some money to help to pay
-off what the priory owed.[68] The Church of Newneton could not afford
+off what the priory owed.[68] The Church of Newnton could not afford
 clergymen.[69] Even the great Monastery of St. Swithin’s, Winchester,
 in spite of the revenue that its monks drew from the sale of wine and
 fur and spiceries, and from the tolls paid by the traders who attended
@@ -3053,6 +3053,9 @@ changed to all capitals.
 
 Changed “Révue” in “Révue des Etudes Juives” to “Revue” (footnotes 189,
 217, 267).
+
+p. 27: changed “Newneton” to “Newnton” (The Church of Newnton could not
+afford clergymen)
 
 p. 36 n. 4: (footnote 106 in this file) changed “Italicae” to “Italicæ”
 (Muratori, Antiquitates Italicæ Medii Aevi, I. 889.)
